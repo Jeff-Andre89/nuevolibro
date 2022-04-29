@@ -1,11 +1,19 @@
-# Welcome to your Jupyter Book
+# UTPL Decide ser mas.
+___
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+***Tecnologias de la Infomacion.***
 
-Check out the content pages bundled with this sample book to see more.
+___
+
+    Descripcion de la Carrera
+
+
++ Formamos profesionales con sólidos conocimientos científicos y capaces de utilizar métodos, técnicas y herramientas de investigación básica y las propias del campo de las tecnologías de la información, para diagnosticar problemas relacionados con la operación, explotación y mantenimiento de la infraestructura tecnológica en empresas.
+
+
+* Nuestro programa formativo, hace posible el diseño e implementación de soluciones innovadoras que den soporte a la estrategia de negocio, laborando de forma individual o en equipo y aplicando enfoques de ingeniería que integren aspectos éticos y sociales, para contribuir a la transformación de la matriz productiva, de acuerdo a los objetivos del Plan Nacional del Buen Vivir y al desarrollo sostenible del Ecuador.
+
+
 
 ```{tableofcontents}
 ```
